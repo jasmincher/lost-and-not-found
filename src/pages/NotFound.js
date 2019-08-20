@@ -1,14 +1,14 @@
 import React from 'react'
 
 
-function About() {
+function NotFound() {
     return (
         <div>
-            about page
+           not found page 
         </div>
 
     );
 }
 
 
-export default About;
+export default NotFound;
